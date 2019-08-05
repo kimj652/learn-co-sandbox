@@ -3,7 +3,7 @@ def test(i, j = UNDEFINED)
   puts "#{sum}"
 end
 
-test(9,0)
+test(9)
 
 
 
