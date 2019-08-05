@@ -4,7 +4,7 @@ def test(i, j = 0)
   end
 end
 
-test(sum, 0)
+a = test(sum, 0)
 
 sum = [1,2,3]
 
