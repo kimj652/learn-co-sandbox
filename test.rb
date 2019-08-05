@@ -5,10 +5,6 @@ def test(i, j = 0)
   return y
 end
 
-a = test(sum, 0) { |memo,n| memo + n}
-
-puts "#{a}"
-
 sum = [1,2,3]
 
 
