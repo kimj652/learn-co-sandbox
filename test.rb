@@ -10,6 +10,6 @@ def generate
 end
 
 grand = generate
-puts "#{grand}"
+puts "#{grand} is your total."
 
 
