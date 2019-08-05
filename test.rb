@@ -4,7 +4,7 @@ def total(sum)
 end
 
 def generate
-  sum += 5
+  sum = sum + 5
   total(sum)
   return sum
 end
