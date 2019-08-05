@@ -5,7 +5,7 @@ end
 
 a = test
 
-
+puts "#{a}"
 
 
 
