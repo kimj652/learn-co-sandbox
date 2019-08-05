@@ -1,6 +1,6 @@
 def test(i, j = 0)
   for x in i do 
-    y = x + j
+    y = yield(i,j)
   end
   return y
 end
