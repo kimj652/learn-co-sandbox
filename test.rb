@@ -1,5 +1,6 @@
-if nil == false
+if nil && false
   puts "yes"
+else
 end
 
 
