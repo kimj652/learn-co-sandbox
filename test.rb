@@ -2,6 +2,7 @@ def test(i, j = 0)
   for x in i do 
     y = x + j
   end
+  return y
 end
 
 a = test(sum, 0)
