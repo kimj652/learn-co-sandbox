@@ -1,3 +1,4 @@
+sum = 0
 def total(sum)
   puts "your total is #{sum}"
 end
