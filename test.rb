@@ -3,7 +3,7 @@ def test(i, j = nil)
   puts "#{sum}"
 end
 
-test(9)
+test(9,0)
 
 
 
