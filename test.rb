@@ -9,7 +9,8 @@ def generate
   return sum
 end
 
-grand = generate
+subtotal = generate
+grand = subtotal + 3
 puts "#{grand} is your total."
 
 
