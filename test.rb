@@ -1,4 +1,3 @@
-def (i, j = nil)
-end
+j = nil
 
 
