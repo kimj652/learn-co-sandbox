@@ -6,7 +6,7 @@ end
 a = test
 
 puts "#{a}"
-
+p "#{a}"
 
 
 
