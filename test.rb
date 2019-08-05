@@ -1,4 +1,4 @@
-def test(i, j)
+def test(i, j = 0)
   sum += i 
   puts "#{sum}"
 end
