@@ -12,7 +12,7 @@ new =  [
       {"SOY MILK" => {:price => 4.50, :clearance => true}}
     ]
 
-
+puts new[]
 
 
 
