@@ -1,4 +1,5 @@
-def total
+def total(sum)
+  puts "your total is "
 end
 
 def generate
