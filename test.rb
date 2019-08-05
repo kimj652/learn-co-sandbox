@@ -1,5 +1,5 @@
 def test(i, j)
-  sum = i + j
+  sum += i 
   puts "#{sum}"
 end
 
