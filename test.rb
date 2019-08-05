@@ -10,6 +10,6 @@ def generate
 end
 
 grand = generate
-puts ""
+puts "#{grand}"
 
 
