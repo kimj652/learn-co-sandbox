@@ -1,4 +1,4 @@
-def test(i, j = nil)
+def test(i, j = UNDEFINED)
   sum = i + j
   puts "#{sum}"
 end
