@@ -1,6 +1,6 @@
 def test(i)
   for x in i do 
-    y = yield(i,j)
+    y += x
   end
   return y
 end
@@ -8,6 +8,8 @@ end
 sum = [1,2,3]
 
 a = test(sum)
+
+puts "#{a}"
 
 
 
