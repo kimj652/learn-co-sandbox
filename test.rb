@@ -6,6 +6,8 @@ end
 
 a = test(sum, 0)
 
+puts "#{a}"
+
 sum = [1,2,3]
 
 
