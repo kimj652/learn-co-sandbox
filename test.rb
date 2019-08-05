@@ -9,6 +9,7 @@ def generate
   return sum
 end
 
-sum = generate
+grand = generate
+puts ""
 
 
