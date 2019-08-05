@@ -1,5 +1,5 @@
 new = Hash.new
-new =  [
+new =  
       {"AVOCADO" => {:price => 3.00, :clearance => true}},
       {"KALE" => {:price => 3.00, :clearance => false}},
       {"BLACK_BEANS" => {:price => 2.50, :clearance => false}},
@@ -10,7 +10,7 @@ new =  [
       {"PEANUTBUTTER" => {:price => 3.00, :clearance => true}},
       {"BEETS" => {:price => 2.50, :clearance => false}},
       {"SOY MILK" => {:price => 4.50, :clearance => true}}
-    ]
+    
 
 puts new["AVOCADO"]
 
