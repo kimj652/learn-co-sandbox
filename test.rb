@@ -1,9 +1,9 @@
-def test(i, j = undef)
+def test(i, j)
   sum = i + j
   puts "#{sum}"
 end
 
-test(9)
+test(true, false)
 
 
 
