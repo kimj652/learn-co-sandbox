@@ -1,6 +1,5 @@
 def test(i, j = 0)
-  sum += i 
-  puts "#{sum}"
+  for x in i do 
 end
 
 test(sum, 0)
