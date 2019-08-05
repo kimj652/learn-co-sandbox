@@ -3,7 +3,9 @@ def test(i, j = 0)
   puts "#{sum}"
 end
 
-test(true, false)
+test(sum, 0)
+
+sum = [1,2,3]
 
 
 
